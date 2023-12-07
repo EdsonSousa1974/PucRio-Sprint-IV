@@ -3,6 +3,10 @@ Este pequeno projeto faz parte do MVP da **Puc-Rio - Sprint IV - Do curso de pó
 
 O objetivo é ilustrar o conteúdo apresentado da Sprint IV, criando e apresentando um modelo de machine learning e por último utilizando esse modelo em uma aplicação Full Stack básica.
 
+## Apresentação do Projeto
+##https://youtu.be/-PhAvI7iL9Y
+
+
 # Notebook Colab
 https://colab.research.google.com/drive/10W7JUmvEfWEIXFocVdC51jiTzpIg0IOJ#scrollTo=tvOjhsiVKqRP
 
@@ -18,25 +22,23 @@ As principais tecnologias que serão utilizadas aqui é o:
  - [Python, PyTest]
  - [JavaScript, HTML e CSS]
 
-## Meu BackEnd
+# Meu BackEnd
 Desenvolvido em [Python]
 Testes em [PyTest]
 
-
-## Meu FrontEnd
-Desenvolvido com [JavaScript, HTML e CSS]
 ## Como executar através do flask 
-
 Será necessário ter todas as libs python listadas no `requirements.txt` instaladas.
 Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo.
 
 > É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
-# python -m pip install --user virtualenv
-# python -m venv env
+```
+python -m pip install --user virtualenv
+python -m venv env
+```
 
 ```
-(env)$ pip install -r prj_back\requirements.txt
+(env)$ pip install -r MVP-SoftInteligentes\requirements.txt
 ```
 
 Este comando instala as dependências/bibliotecas, descritas no arquivo `requirements.txt`.
@@ -58,7 +60,6 @@ automaticamente após uma mudança no código fonte.
 ### Acesso no browser
 Uma vez executando, para acessar a API, basta abrir o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador.
 
-
-## Apresentação do Projeto
-##https://youtu.be/-PhAvI7iL9Y
-
+## Meu FrontEnd
+- [Desenvolvido com JavaScript, HTML e CSS]
+Para executar basta fazer o download do projeto e abrir o arquivo `index.html` no seu browser.

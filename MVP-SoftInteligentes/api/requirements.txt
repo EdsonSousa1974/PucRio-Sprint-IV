@@ -1,6 +1,7 @@
 Flask
 Flask-Cors
-flask-openapi3
+Flask-openapi3
+Flask-OpenAPI3-UI
 Flask-SQLAlchemy
 nose2
 pydantic
@@ -10,3 +11,4 @@ typing_extensions
 scikit-learn == 1.2.2
 pandas == 2.1.3
 pytest == 7.4.3
+

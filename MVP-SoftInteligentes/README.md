@@ -4,7 +4,7 @@ Este pequeno projeto faz parte do MVP da **Puc-Rio - Sprint IV - Do curso de pó
 O objetivo é ilustrar o conteúdo apresentado da Sprint IV, criando e apresentando um modelo de machine learning e por último utilizando esse modelo em uma aplicação Full Stack básica.
 
 ## Apresentação do Projeto
-##https://youtu.be/-PhAvI7iL9Y
+https://youtu.be/0Tht9nCXA44
 
 
 # Notebook Colab
@@ -57,8 +57,7 @@ flask run --host 0.0.0.0 --port 5000 --reload
 ```
 
 ---
-### Acesso no browser
-Uma vez executando, para acessar a API, basta abrir o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador.
+Uma vez executando, para acessar a API, basta abrir browse o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador.
 
 ## Meu FrontEnd
 - [Desenvolvido com JavaScript, HTML e CSS]

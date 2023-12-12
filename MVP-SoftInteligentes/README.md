@@ -8,7 +8,7 @@ https://youtu.be/0Tht9nCXA44
 
 
 # Notebook Colab
-https://colab.research.google.com/drive/10W7JUmvEfWEIXFocVdC51jiTzpIg0IOJ#scrollTo=tvOjhsiVKqRP
+https://colab.research.google.com/github/EdsonSousa1974/PucRio-Sprint-IV/blob/main/ML_MPV_FINAL.ipynb
 
 
 ## As principais tecnologias utilizadas aqui:
